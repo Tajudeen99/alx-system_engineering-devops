@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod a+x *  (a stands for all users, owners and groups, capital X stands for executable directories
-and * is for the script to work on all the directories.) 
+chmod a+x*
